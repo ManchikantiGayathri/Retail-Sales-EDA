@@ -7,9 +7,11 @@ This project performs an Exploratory Data Analysis (EDA) on a retail sales datas
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Analysis Highlights](#analysis-highlights)
+- [File Structure](#file-structure)
+- [Results and Insights](#results-and-insights)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ---
 
